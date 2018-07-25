@@ -38,7 +38,7 @@
         <dependency>
             <groupId>com.itextpdf.tool</groupId>
             <artifactId>xmlworker</artifactId>
-            <version>1.1.1</version>
+            <version>5.5.9</version>
             <scope>compile</scope>
         </dependency>
         <dependency>
